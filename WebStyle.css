@@ -1,0 +1,21 @@
+h1{
+    color:rgb(0, 255, 128)
+}
+
+h2{
+    color:cornflowerblue
+}
+
+.button{
+    background-color: #5146f1;
+    border: none;
+    color: white;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
