@@ -1,2 +1,2 @@
-# HTML-CSS-Test
+# HTML, CSS 공부
 그냥 공부하려고 만들었으니까 가세요
